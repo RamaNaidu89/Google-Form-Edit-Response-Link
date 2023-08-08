@@ -5,6 +5,8 @@ Creating this repo for easy understanding of Google Form Edit Response
 ###  Step 1. Prepare your form and spreadsheet
 
    * You have a spreadsheet connected with the form as a response destination.
+
+![image](https://github.com/Revanth-13/Google-Form-Edit-Response-Link/assets/123372740/55ef385d-80ca-4b4d-a4b0-746edf925384)
      
 ###  Step 2. Set up the magic Apps Script in Your Spreadsheet
 
